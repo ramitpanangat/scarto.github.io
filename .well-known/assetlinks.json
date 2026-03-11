@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.grit.scarto",
+      "sha256_cert_fingerprints": [
+        "52:99:9D:BA:E4:11:84:51:89:7B:01:9A:42:EF:DA:E4:9A:91:52:EC:05:C4:8C:8C:F7:C1:76:1C:B9:CC:C0:EB"
+      ]
+    }
+  }
+]
